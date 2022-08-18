@@ -1,0 +1,3 @@
+C:\Users\Lavanya\source\repos\lavConsoleApp2\lavConsoleApp2\obj\Debug\lavConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\lavConsoleApp2\lavConsoleApp2\obj\Debug\lavConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\lavConsoleApp2\lavConsoleApp2\obj\Debug\lavConsoleApp2.csproj.CoreCompileInputs.cache

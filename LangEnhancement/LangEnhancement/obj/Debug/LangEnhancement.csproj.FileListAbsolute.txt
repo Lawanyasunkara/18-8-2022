@@ -1,0 +1,8 @@
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\bin\Debug\LangEnhancement.exe.config
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\bin\Debug\LangEnhancement.exe
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\bin\Debug\LangEnhancement.pdb
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\obj\Debug\LangEnhancement.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\obj\Debug\LangEnhancement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\obj\Debug\LangEnhancement.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\obj\Debug\LangEnhancement.exe
+C:\Users\Lavanya\source\repos\LangEnhancement\LangEnhancement\obj\Debug\LangEnhancement.pdb
